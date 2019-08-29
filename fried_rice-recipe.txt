@@ -1,0 +1,8 @@
+Ingredient:
+rice
+oil
+carrot
+egg
+salt
+
+Step by step
